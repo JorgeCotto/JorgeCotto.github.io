@@ -1,0 +1,12 @@
+html {
+  background-color: #cccccc;
+}
+
+#headshot1 {
+  width:200px;
+  height:auto;
+}
+
+.bio {
+  font-family: 'Bree Serif', serif;
+}
