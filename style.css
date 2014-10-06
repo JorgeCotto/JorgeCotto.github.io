@@ -1,5 +1,11 @@
 html {
-  background-color: #cccccc;
+	background-color: #cccccc;
+	color: undefined;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	text-align: left;
+	text-decoration: none;
+	text-shadow: 23px 0px #65737D;
 }
 
 #headshot1 {
