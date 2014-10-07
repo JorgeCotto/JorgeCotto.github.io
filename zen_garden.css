@@ -1,0 +1,14 @@
+#heading {
+  display: inline-block;
+}
+
+#zen_garden {
+  width: 400px;
+  height: auto;
+}
+
+#defiance {
+  width: auto;
+  height: 376px;
+  display: inline-block;
+}

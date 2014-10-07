@@ -1,18 +1,34 @@
 html {
-	background-color: #cccccc;
-	color: undefined;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-	font-style: normal;
-	text-align: left;
-	text-decoration: none;
-	text-shadow: 23px 0px #65737D;
+  background-color: #eeeeee;
+}
+
+.myname {
+  font-family: "Bree Serif";
 }
 
 #headshot1 {
-  width:200px;
-  height:auto;
+  width: 200px;
+  height: auto;
 }
 
-.bio {
-  font-family: 'Bree Serif', serif;
+.profilepic {
+  position: absolute;
+  top: 20;
+  left: 20;
+}
+
+.centerdiv {
+  width: 300px;
+  margin: 0 auto;
+  font-family: "Bree Serif", Garamond, Georgia, "Times New Roman";
+}
+
+.centerblock {
+  width: 300px;
+}
+
+@media (max-width: 860px) {
+  .profilepic {
+    position: relative;
+  }
 }
